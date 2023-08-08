@@ -5,8 +5,8 @@ from setuptools import setup
 setup(
     name='aqvify',
     version='0.1.0',
-    description='',
-    long_description='',
+    description='Read values from Aqvify through the official API.',
+    long_description='A python module for reading values of Aqvify through the official API.',
     url='http://github.com/ptz0n/python-aqvify',
     author='Erik Eng',
     author_email='erik@eng.se',

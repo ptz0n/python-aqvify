@@ -2,6 +2,14 @@
 
 A python module for reading values of Aqvify through the official API.
 
+## Installation
+
+```bash
+pip install aqvify
+```
+
+## Usage
+
 ```python
 from aqvify import (AqvifyAPI, DevicesAPI)
 
