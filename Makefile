@@ -8,7 +8,7 @@ test:
 	pytest tests/
 
 build:
-	rm -r dist
+	rm -rf dist
 	python setup.py sdist
 
 release-test:
